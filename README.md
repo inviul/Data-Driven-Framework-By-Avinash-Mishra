@@ -1,4 +1,4 @@
-# DataDrivenFrameworkInviul
+# Data Driven Framework for Selenium WebDriver Project by Inviul
 
 <b>Framework Developed By:</b> Avinash Mishra
 <br><b>Selenium Framework Types:</b> Data Driven Framework for Automation Testing
