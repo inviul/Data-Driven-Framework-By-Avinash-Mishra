@@ -1,0 +1,17 @@
+[INFO] [Log] [setUpBrowser] 
+
+ Test Case Name	: MyTest
+ Start Time			: 21::10::359
+ URL				: https://www.google.com/
+---------------------------------------- 
+ [INFO] [Log] [setUpBrowser] Browser is- chrome 
+ [INFO] [Log] [setUpBrowser] 
+
+ Test Case Name	: MyTest
+ Start Time			: 21::10::453
+ URL				: https://www.google.com/
+---------------------------------------- 
+ [INFO] [Log] [setUpBrowser] Browser is- chrome 
+ [INFO] [Log] [setUpBrowser] Website opened 
+ [INFO] [Log] [explicitlyWait] Visiblity checked for- [[ChromeDriver: chrome on XP (786464710e71f16372eba22cb08ba0a7)] -> id: lst-ib] 
+ 

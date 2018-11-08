@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="url" value="http://www.inviul.com/"/>
+  <test name="Test(failed)">
+    <parameter name="url" value="http://www.inviul.com/"/>
+    <classes>
+      <class name="Test.ParametersAnnotationUses">
+        <methods>
+          <include name="parametersAnnotationExample" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Test.ParametersAnnotationUses -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
